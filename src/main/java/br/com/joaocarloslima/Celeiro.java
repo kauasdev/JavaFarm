@@ -77,7 +77,19 @@ public class Celeiro {
         }
 
     }
-
-
-
+        public int getQtdeBatatas() {
+        return qtdeBatatas;
+    }
+ 
+    public int getQtdeCenouras() {
+        return qtdeCenouras;
+    }
+ 
+    public int getQtdeMorangos() {
+        return qtdeMorangos;
+    }
 }
+
+
+
+
